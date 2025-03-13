@@ -3,7 +3,7 @@
 title: Daniel Vilas
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Wu
 
 # Full name (for SEO)
 first_name: Daniel
@@ -11,7 +11,7 @@ last_name: Vilas Perulan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🇪🇸
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Tecnico Momemtum
+role: Técnico Momentum
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,42 +47,47 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Inteligencia Artificial
+  - Agentes Inteligentes
+  - Sistemas Empotrados SBC
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Máster Universitario en Inteligencia Artificial
+    institution: UNIR
+    date_start: 2025-03-17
+    #date_end: 2026-03-17
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      (MEng) El Máster online en Inteligencia Artificial de UNIR te forma en las cinco las ramas principales de la IA:
+      - Aprendizaje automático (machine learning)
+      - Aprendizaje profundo (deep learning)
+      - Planificación y desarrollo de algoritmos informáticos
+      - Procesamiento del Lenguaje Natural (Natural Language Processing, NLP)
+      - Visión por computador
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: (MEng) Ingeniería Informática
+    institution: Universidad de Zaragoza (CPS)
+    date_start: 2004-09-01
+    date_end: 2008-05-28
     summary: |
-      GPA: 3.8/4.0
+      Plan de estudios 1995, Equivalente al master en Ingeniería Informática.
+      Nivel MECES:3
+      Nivel EQF: 7
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      PFC: "Ampliación de la Plataforma de Firma Avanzada ASF: Estandarización de la Interfaz a través de DSS OASIS e Implementación de Nuevas Funciones"
+
+  - area: (BSc) Ingeniería Técnica Informática Sistemas
+    institution: Universidad de Zaragoza (EUPLA)
+    date_start: 2000-09-01
+    date_end: 2004-09-01
     summary: |
-      GPA: 3.4/4.0
+      Plan de estudios 1995, Equivalente al grado en Ingeniería Informática
+      Nivel MECES:2
+      Nivel EQF: 6
+
+      PFC: "Sistema de Gestión de Clubs de Tiempo Libre sobre la plataforma J2EE"
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -92,9 +97,9 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - c1
+      - c2
+      - c3
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -104,8 +109,9 @@ work:
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - c1
+      - c2
+      - c3
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -142,12 +148,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Español
     percent: 100
-  - name: Chinese
+  - name: Ingles
     percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -181,6 +186,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Sobre Mi
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Técnico superior en el Instituto Pirenaico de Ecología (IPE) enmarcado dentro de un Proyecto Momentum. Informático con amplia experiencia en el diseño y desarrollo de arquitecturas software. Desarrollando aplicaciones de inteligencia artificial para extraer información sobre sequías a partir de noticias.
