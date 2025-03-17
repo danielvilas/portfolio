@@ -89,29 +89,48 @@ education:
       PFC: "Sistema de Gestión de Clubs de Tiempo Libre sobre la plataforma J2EE"
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Técnico Momentum IA
+    company_name: IPE CSIC
+    company_url: 'http://www.ipe.csic.es'
+    company_logo: 'assets/ipe.jpeg'
+    date_start: 2024-12-20
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - c1
-      - c2
-      - c3
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      Desarrollo de herramientas IA para el proyecto ImpactIA
+  - position: Técnico CSIC /Arquitecto SW
+    company_name: EEAD CSIC
+    company_url: 'http://www.eead.csic.es'
+    company_logo: 'assets/eead.jpeg'
+    date_start: 2023-03-08
+    date_end: 2024-12-19
+    summary: |
+      Diseño de la arquitecturas y desarrollo de herramientas
+      para que los científicos de la EEAD puedan analizar y mostrar
+      datos climatológicos sobre un mapa web
+  - position: Arquitecto Sofware
+    company_name: NTT-Data
+    company_url: 'https://es.nttdata.com/'
+    company_logo: ''
+    date_start: 2010-09-01
+    date_end: 2023-03-01
+    summary: |
+      Dentro del departamento de arquitectura realice tareas de:
+      - Análisis/Diseño/Desarrollo de Frameworks basados en JAVA
+      - Contenerización de aplicaciones
+      - Despliegue de aplicaciones en clusters Kubernetes
+      - Análisis/Diseño/Desarrollo de Blockchain basado en Hiperledger Fabric 2.X
+
+  - position: Experto en Firma Electronica
+    company_name: TB·Solutions
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2006-03-04
+    date_end: 2010-09-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - c1
-      - c2
-      - c3
+      Diferentes tareas desde Programador Junior hasta Jefe de equipo.
+      - Análisis/Diseño/Desarrollo de la plataforma de firma ASF
+      - Gestión del equipo de la plataforma
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -130,22 +149,22 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
 
 languages:
   - name: Español
@@ -159,31 +178,108 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+
+  - title: 'Linear Circuits 2: AC Analysis'
+    url: https://www.coursera.org/learn/linear-circuits-ac-analysis
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/SHCJ7T8DXZAE
+    date: '2018-07-08'
+    awarder: Georgia Institute of Technology
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Este curso explica cómo analizar circuitos que tienen fuentes de tensión o corriente de corriente alterna (CA). Se tratan los circuitos con resistencias, condensadores e inductores, tanto analítica como experimentalmente. Se muestran algunas aplicaciones prácticas en sensores.
+
+  - title: 'Linear Circuits 1: DC Analysis'
+    url: https://www.coursera.org/learn/linear-circuits-dcanalysis
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/6RYNZCCN4A7W
+    date: '2018-07-08'
+    awarder: Georgia Institute of Technology
+    icon: coursera
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Este curso explica cómo analizar circuitos que tienen fuentes de corriente o tensión de corriente continua (CC).  Una fuente de CC es aquella que es constante.  Se tratan los circuitos con resistencias, condensadores e inductores, tanto analítica como experimentalmente. Se muestran algunas aplicaciones prácticas en sensores.
+
+
+  - title: 'Python for Everybody'
+    url: https://www.coursera.org/learn/python-data-visualization
+    certificate_url: https://www.coursera.org/account/accomplishments/specialization/X527FSBA3BE2
+    date: '2017-04-22'
+    awarder: University of Michigan
+    icon: coursera
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Curso de especializacion que agrupa a:
+      - Programming for Everybody (Getting Started with Python)
+      - Python Data Structures
+      - Using Python to Access Web Data
+      - Using Databases with Python
+      - Capstone: Retrieving, Processing, and Visualizing Data with Python
+
+  - title: 'Capstone: Retrieving, Processing, and Visualizing Data with Python'
+    url: https://www.coursera.org/learn/python-data-visualization
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/ZZSV2FT5BFTS
+    date: '2017-04-22'
+    awarder: University of Michigan
+    icon: coursera
+    summary: |
+      - Make use of unicode characters and strings
+      - Understand the basics of building a search engine
+      - Select and process the data of your choice
+      - Create email data visualizations
+
+  - title: 'Using Databases with Python'
+    url: https://www.coursera.org/learn/python-databases
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/3X897BCBKGSW
+    date: '2017-03-02'
+    awarder: University of Michigan
+    icon: coursera
+    summary: |
+      - Use the Create, Read, Update, and Delete operations to manage databases
+      - Explain the basics of Object Oriented Python
+      - Understand how data is stored across multiple tables in a database
+      - Utilize the Google Maps API to visualize data
+
+  - title: 'Using Python to Access Web Data'
+    url: https://www.coursera.org/learn/python-network-data
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/7BFFW9VN3KLM
+    date: '2017-01-18'
+    awarder: University of Michigan
+    icon: coursera
+    summary: |
+      - Use regular expressions to extract data from strings
+      - Understand the protocols web browsers use to retrieve documents and web apps
+      - Retrieve data from websites and APIs using Python
+      - Work with XML (eXtensible Markup Language) data
+
+  - title: 'Python Data Structures'
+    url: https://www.coursera.org/learn/python-data
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/ERWYHMC5NQWG
+    date: '2017-01-18'
+    awarder: University of Michigan
+    icon: coursera
+    summary: |
+      - Explain the principles of data structures & how they are used
+      - Create programs that are able to read and write data from files
+      - Store data as key/value pairs using Python dictionaries
+      - Accomplish multi-step tasks like sorting or looping using tuples
+
+  - title: 'Programming for Everybody (Getting Started with Python)'
+    url: https://www.coursera.org/learn/python
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/4G2SPW9A8KYD
+    date: '2016-12-31'
+    awarder: University of Michigan
+    icon: coursera
+    summary: |
+      - Install Python and write your first program
+      - Describe the basics of the Python programming language
+      - Use variables to store, retrieve and calculate information
+      - Utilize core programming tools such as functions and loops
+
+  - title: 'Introduction to Electronics'
+    url: https://www.coursera.org/learn/electronics
+    certificate_url: http://basno.com/wl1n2x8h
+    date: '2016-12-31'
+    awarder: Georgia Tech Professional Education
+    icon: coursera
+    summary: |
+      This course introduces students to the basic components of electronics: diodes, transistors, and op amps. It covers the basic operation and some common applications.
 ---
 
 ## Sobre Mi

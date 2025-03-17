@@ -12,20 +12,18 @@ design:
 sections:
   - block: resume-experience
     content:
-      username: admin-work
+      username: admin-education
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
-  - block: resume-skills
+  - block: resume-awards
     content:
-      title: Habilidades y Hobbies
-      username: admin-work
-    design:
-      show_skill_percentage: false
+      title: Otros Certificados Formativos
+      username: admin
   - block: resume-languages
     content:
-      title: Languages
+      title: Idiomas
       username: admin
 ---
