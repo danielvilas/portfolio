@@ -30,21 +30,21 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: at-symbol
+  #   url: 'mailto:your-email@example.com'
+  #   label: E-mail Me
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/danielvilas
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/daniel-vilas-perulan-3b47b920/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.es/citations?hl=es&user=R-TpJVIAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0006-5889-6542
 
 interests:
   - Inteligencia Artificial
@@ -52,7 +52,7 @@ interests:
   - Sistemas Empotrados SBC
 
 education:
-  - area: Máster Universitario en Inteligencia Artificial
+  - area: (Cursando) Máster Universitario en Inteligencia Artificial
     institution: UNIR
     date_start: 2025-03-17
     #date_end: 2026-03-17
