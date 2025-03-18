@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/CV-Europas-Daniel Vilas-ES-220905.pdf
+        url: uploads/CV-Europas-Daniel Vilas-ES-20250318.pdf
     design:
       css_class: dark
       background:
