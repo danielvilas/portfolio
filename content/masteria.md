@@ -11,7 +11,7 @@ sections:
       title: '📚 Master IA UNIR'
       subtitle: ''
       text: |- 
-       [![Máster Universitario en Inteligencia Artificial](logo_unir_1666x348.png "Máster Universitario en Inteligencia Artificial ")](https://www.unir.net/ingenieria/master-inteligencia-artificial/)
+       [![Máster Universitario en Inteligencia Artificial](../masterias/logo_unir_1666x348.png "Máster Universitario en Inteligencia Artificial ")](https://www.unir.net/ingenieria/master-inteligencia-artificial/)
        A lo largo del año 2025 realizo el Master de Inteligencia Artificial y aquí vemos los hitos principales
     design:
       columns: '1'
@@ -22,7 +22,7 @@ sections:
       subtitle: ''
       text: 'Revisa periódicamente para ir viendo mis avances en el Master'
       # Page type to display. E.g. post, talk, publication...
-      page_type: masteria
+      page_type: masterias
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
