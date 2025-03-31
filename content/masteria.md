@@ -10,7 +10,7 @@ sections:
     content:
       title: '📚 Master IA UNIR'
       subtitle: ''
-      text: |-
+      text: |- 
        [![Máster Universitario en Inteligencia Artificial](logo_unir_1666x348.png "Máster Universitario en Inteligencia Artificial ")](https://www.unir.net/ingenieria/master-inteligencia-artificial/)
        A lo largo del año 2025 realizo el Master de Inteligencia Artificial y aquí vemos los hitos principales
     design:
